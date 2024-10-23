@@ -1,0 +1,15 @@
+cliente,tipoServico,dataInicio,dataFinal,metrosQuadrados,valorFinal,status
+teste,limpeza de quarto,2024-11-11,2024-11-17,15,375.0,Cadastrado
+teste,limpeza de banheiro,2024-11-11,2024-11-13,51,765.0,Cadastrado
+teste,limpeza de quarto,2024-11-11,2024-11-17,15,375.0,Cadastrado
+teste,limpeza de banheiro,2024-11-11,2024-11-13,51,765.0,Cadastrado
+teste,limpeza de quarto,2024-11-11,2024-11-17,15,375.0,Cadastrado
+teste,limpeza de banheiro,2024-11-11,2024-11-13,51,765.0,Cadastrado
+teste,limpeza de quarto,2024-11-11,2024-11-17,15,375.0,Cadastrado
+teste,limpeza de banheiro,2024-11-11,2024-11-13,51,765.0,Cadastrado
+teste,limpeza de quarto,2024-11-11,2024-11-17,15,375.0,Cadastrado
+teste,limpeza de banheiro,2024-11-11,2024-11-13,51,765.0,Cadastrado
+EscritorioA,limpeza de quarto,2024-11-11,2024-11-17,25,625.0,Cadastrado
+RestauranteA,limpeza de banheiro,2024-12-12,2024-12-14,52,780.0,Cadastrado
+RestauranteA,limpeza de telhado,2024-12-25,2024-12-29,89,5162.0,Cadastrado
+teste,limpeza de piso,2024-12-25,2024-12-29,50,2500.0,Cadastrado
